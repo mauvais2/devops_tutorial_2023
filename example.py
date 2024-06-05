@@ -10,6 +10,9 @@ class ArithmeticPair:
     """
 
     def __init__(self, x, y):
+        """
+        test
+        """
         self.x = x
         self.y = y
 
