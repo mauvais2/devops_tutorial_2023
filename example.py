@@ -10,6 +10,9 @@ class ArithmeticPair:
     """
 
     def __init__(self, x, y):
+        """
+        test
+        """
         self.x = x
         self.y = y
 
@@ -23,7 +26,7 @@ class ArithmeticPair:
         """
         Compute :math:`x - y`.
         """
-        return self.y - self.x
+        return self.x - self.y
 
     def product(self):
         """
